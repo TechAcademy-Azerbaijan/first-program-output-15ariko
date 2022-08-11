@@ -1,1 +1,1 @@
-console.log("a \nbb\nccc");
+console.log("a \nb b\nc c c");
